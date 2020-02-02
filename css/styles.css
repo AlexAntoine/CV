@@ -1,0 +1,158 @@
+/* GENEREAL */
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 5.625em;
+    margin-top: 50px;
+    color: #11999E;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+
+h3 {
+    font-weight: normal;
+    color: #11999E;
+}
+
+hr {
+    border: dotted #EAF6F6 5px ;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 5%; 
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+p {
+    line-height: 2;
+}
+
+.bio {
+    width: 30%;
+    margin: auto;
+}
+
+
+/* IMAGES */
+
+.tech-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.doggo {
+    border-radius: 100%;
+    width: 25%;
+}
+ 
+/* MIDDLE */
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+   
+}
+
+/* CLOUDS */
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+/* CONTAINERS */
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+/* STUFF RELATED TO THE FOOTER */
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+    color: #ffff;
+}
+
+.btncontact-me {
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.btncontact-me:hover {
+    background: #30e3cb;
+    text-decoration: none;
+}
+
+
+.contact-me {
+    padding-bottom: 20px;
+
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+
+
+
+
+
+
